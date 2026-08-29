@@ -219,6 +219,17 @@
             "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 100,
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/files/servers.dat",
+            "MD5": "075bed639b51cfb3348b108982b9ffa9",
+            "path": "servers.dat"
+          }
         }
       ]
     }
