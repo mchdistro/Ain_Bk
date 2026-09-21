@@ -161,6 +161,16 @@
           }
         },
         {
+          "id": "com.gitter:gtnick:2.0.4@jar",
+          "name": "GTNick",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 109645,
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/gtnick-fabric-1.21.4-2.0.4.jar",
+            "MD5": "0bae23f2b78cfffe660e5263bcb30bda"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.8.8+mc1.21.4@jar",
           "name": "Iris",
           "type": "FabricMod",
@@ -188,16 +198,6 @@
             "size": 655990,
             "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/koreanpatch-fabric-1.9.6+mc1.21.3.jar",
             "MD5": "c95329994b4cc793ec412462543c4f67"
-          }
-        },
-        {
-          "id": "su.plo.voice:plasmovoice:2.1.15@jar",
-          "name": "Plasmo Voice",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 12353463,
-            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.15.jar",
-            "MD5": "82173d4e6636ab635c845d15cfc42eea"
           }
         },
         {
