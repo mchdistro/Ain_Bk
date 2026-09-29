@@ -165,9 +165,9 @@
           "name": "GTNick",
           "type": "FabricMod",
           "artifact": {
-            "size": 109645,
+            "size": 111646,
             "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/gtnick-fabric-1.21.4-2.0.4.jar",
-            "MD5": "0bae23f2b78cfffe660e5263bcb30bda"
+            "MD5": "e65dffe57fffbdbb9f54626695ed630d"
           }
         },
         {
@@ -229,6 +229,17 @@
             "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/files/servers.dat",
             "MD5": "075bed639b51cfb3348b108982b9ffa9",
             "path": "servers.dat"
+          }
+        },
+        {
+          "id": "AstraLex_V93.0.zip",
+          "name": "AstraLex_V93.0.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3184524,
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/files/shaderpacks/AstraLex_V93.0.zip",
+            "MD5": "021c95bd3d217b4a7e45997d5127285b",
+            "path": "shaderpacks/AstraLex_V93.0.zip"
           }
         }
       ]
