@@ -201,13 +201,13 @@
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.1.16@jar",
+          "id": "su.plo.voice:plasmovoice:2.2.0-beta.1@jar",
           "name": "Plasmo Voice",
           "type": "FabricMod",
           "artifact": {
-            "size": 12358319,
-            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.16.jar",
-            "MD5": "d8f76637459abece899dcfc8ae78403b"
+            "size": 12884265,
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.2.0-beta.1.jar",
+            "MD5": "453fec961584dd1195e26cd8ceb5b39a"
           }
         },
         {
