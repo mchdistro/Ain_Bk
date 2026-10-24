@@ -2,16 +2,16 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/Ain_Bk/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "Ain_Bk (Minecraft 1.21.4)",
+    "name": "화성게임: 퇴근 서바이벌",
     "description": "Minecraft 1.21.4 (Fabric v0.19.5)",
     "icon": "https://github.com/mchdistro/Ain_Bk/raw/main/server-icon.png",
-    "address": "localhost:25565",
+    "address": "mc.gotiger.dev:20202",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
-    "mainServer": false,
+    "mainServer": true,
     "autoconnect": false,
     "javaOptions": {
       "supported": "=>21",
@@ -35,7 +35,7 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["options.txt"]
+      "patterns": ["options.txt", "config/iris.properties"]
     }
   ]
 }

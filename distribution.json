@@ -8,19 +8,19 @@
   },
   "servers": [
     {
-      "id": "Ain_Bk-1.21.4",
-      "name": "Ain_Bk (Minecraft 1.21.4)",
+      "id": "mars_game-1.21.4",
+      "name": "화성게임: 퇴근 서바이벌",
       "description": "Minecraft 1.21.4 (Fabric v0.19.5)",
       "icon": "https://github.com/mchdistro/Ain_Bk/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "mc.gotiger.dev:20202",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "javaOptions": {
         "supported": "=>21",
@@ -136,7 +136,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 376047,
-            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/authme-fabric-9.0.1+1.21.4.jar",
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/mars_game-1.21.4/fabricmods/required/authme-fabric-9.0.1+1.21.4.jar",
             "MD5": "3c220399e5c34dae32224818c7acaa6c"
           }
         },
@@ -146,7 +146,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 11418,
-            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/mars_game-1.21.4/fabricmods/required/blurserveraddress-fabric-1.2.0+mc1.21.2.jar",
             "MD5": "1294fe12bfc2d2dbe8e4541c27873fd2"
           }
         },
@@ -156,7 +156,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2149128,
-            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/mars_game-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
             "MD5": "128a8d042180e7c92567342e21a21a6d"
           }
         },
@@ -166,7 +166,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 111646,
-            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/gtnick-fabric-1.21.4-2.0.4.jar",
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/mars_game-1.21.4/fabricmods/required/gtnick-fabric-1.21.4-2.0.4.jar",
             "MD5": "e65dffe57fffbdbb9f54626695ed630d"
           }
         },
@@ -176,18 +176,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2682702,
-            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/mars_game-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
             "MD5": "59d373e4874efbcb8fb426bdefa588d9"
-          }
-        },
-        {
-          "id": "journeymap:journeymap:1.21.4-6.0.0-beta.47@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3514383,
-            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
-            "MD5": "8b092f8cca0a96d80eb8eeea24b5ebfd"
           }
         },
         {
@@ -196,18 +186,18 @@
           "type": "FabricMod",
           "artifact": {
             "size": 655990,
-            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/koreanpatch-fabric-1.9.6+mc1.21.3.jar",
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/mars_game-1.21.4/fabricmods/required/koreanpatch-fabric-1.9.6+mc1.21.3.jar",
             "MD5": "c95329994b4cc793ec412462543c4f67"
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.2.0-beta.1@jar",
+          "id": "su.plo.voice:plasmovoice:2.2.0-beta.2@jar",
           "name": "Plasmo Voice",
           "type": "FabricMod",
           "artifact": {
-            "size": 12884265,
-            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.2.0-beta.1.jar",
-            "MD5": "453fec961584dd1195e26cd8ceb5b39a"
+            "size": 12887476,
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/mars_game-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.2.0-beta.2.jar",
+            "MD5": "04d667088abbbf37a3280d6df711e111"
           }
         },
         {
@@ -216,8 +206,28 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/mars_game-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 299,
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/mars_game-1.21.4/files/config/iris.properties",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 573,
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/mars_game-1.21.4/files/options.txt",
+            "path": "options.txt"
           }
         },
         {
@@ -226,7 +236,7 @@
           "type": "File",
           "artifact": {
             "size": 100,
-            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/files/servers.dat",
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/mars_game-1.21.4/files/servers.dat",
             "MD5": "075bed639b51cfb3348b108982b9ffa9",
             "path": "servers.dat"
           }
@@ -237,7 +247,7 @@
           "type": "File",
           "artifact": {
             "size": 3184524,
-            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/Ain_Bk-1.21.4/files/shaderpacks/AstraLex_V93.0.zip",
+            "url": "https://github.com/mchdistro/Ain_Bk/raw/main/servers/mars_game-1.21.4/files/shaderpacks/AstraLex_V93.0.zip",
             "MD5": "021c95bd3d217b4a7e45997d5127285b",
             "path": "shaderpacks/AstraLex_V93.0.zip"
           }
