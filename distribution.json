@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "mars_game-1.21.4",
-      "name": "화성게임: 퇴근 서바이벌",
+      "name": "화성게임: 탈출 서바이벌",
       "description": "Minecraft 1.21.4 (Fabric v0.19.5)",
       "icon": "https://github.com/mchdistro/Ain_Bk/raw/main/server-icon.png",
       "version": "1.0.0",

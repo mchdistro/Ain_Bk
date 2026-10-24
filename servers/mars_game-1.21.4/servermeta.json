@@ -2,7 +2,7 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/Ain_Bk/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "화성게임: 퇴근 서바이벌",
+    "name": "화성게임: 탈출 서바이벌",
     "description": "Minecraft 1.21.4 (Fabric v0.19.5)",
     "icon": "https://github.com/mchdistro/Ain_Bk/raw/main/server-icon.png",
     "address": "mc.gotiger.dev:20202",
